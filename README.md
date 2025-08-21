@@ -5,23 +5,6 @@
 This project trains a Convolutional Neural Network (CNN) on the CIFAR-10 dataset and visualizes both the learned convolution filters and the feature map activations.
 It’s a simple, educational project to help understand how CNNs process image data.
 
-📂 Repository Structure
-cifar10-cnn-visualization/
-│── README.md
-│── requirements.txt
-│── .gitignore
-│
-├── data/                   # CIFAR-10 dataset (downloaded automatically)
-├── src/
-│   ├── dataset.py          # Data loading and transforms
-│   ├── model.py            # SimpleCNN model
-│   ├── train.py            # Training loop
-│   ├── visualize.py        # Visualization functions
-│   └── main.py             # Entry point
-│
-├── notebooks/              # Jupyter notebooks for exploration
-├── outputs/                # Saved models, logs, figures
-└── tests/                  # Unit tests (optional)
 
 ⚡ Features
 
